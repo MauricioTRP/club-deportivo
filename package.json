@@ -1,0 +1,28 @@
+{
+  "name": "club-deportivo",
+  "version": "0.0.1",
+  "description": "Resolución de desafío Club Deportivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MauricioTRP/club-deportivo.git"
+  },
+  "keywords": [
+    "ADL",
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioTRP/club-deportivo/issues"
+  },
+  "homepage": "https://github.com/MauricioTRP/club-deportivo#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
